@@ -1,0 +1,22 @@
+@import "normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+@import "trello.css";
+@import "board.css";
+@import "column.css";
+@import "card.css";
+@import "form.css";
+
+::-webkit-scrollbar {
+  width: 0.2rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #22c55e;
+  border-radius: 0.25rem;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}

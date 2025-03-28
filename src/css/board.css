@@ -1,0 +1,10 @@
+.trello-board {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.trello-board__column {
+  width: 300px;
+  min-height: 500px;
+}
